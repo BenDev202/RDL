@@ -76,6 +76,7 @@
   table {
     border: 1px solid #333;
     border-collapse: collapse;
+    width: 100%;
   }
 
   tr th {
